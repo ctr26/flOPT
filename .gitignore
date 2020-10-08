@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.spyproject
+.vscode
+graphs
+im
+im_bkup
+*.pdf
+*.eps
